@@ -40,4 +40,9 @@ Yes
 
 Go to the folder with your map and open the LevelInfo file. In this file you can specify the name of your map and the icon.
 
+**How to prepare a map for the game?**
+
+File -> Cook Content for Windows
+
+<img width="485" alt="Screenshot_16" src="https://user-images.githubusercontent.com/38829120/128335040-fe0de598-a1a1-4692-bf0c-8b2f32ad26f7.png">
 
